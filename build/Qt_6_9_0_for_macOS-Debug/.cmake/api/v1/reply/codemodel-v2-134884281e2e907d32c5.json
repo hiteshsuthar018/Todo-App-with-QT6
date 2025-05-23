@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c939beceb29abc59b338.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TodoAPP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TodoAPP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TodoAPP-Debug-476d0007a5876f08d943.json",
+					"name" : "TodoAPP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TodoAPP_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TodoAPP_autogen-Debug-67d5faee14b9b7fd8b33.json",
+					"name" : "TodoAPP_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TodoAPP_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TodoAPP_autogen_timestamp_deps-Debug-f5af42dcbb62851dc6b0.json",
+					"name" : "TodoAPP_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/hiteshsuthar/course/TodoAPP/build/Qt_6_9_0_for_macOS-Debug",
+		"source" : "/Users/hiteshsuthar/course/TodoAPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
