@@ -75,18 +75,8 @@ qt6-todo-app/
 
 ## 🖼️ UI Preview
 
-> Add a screenshot named `screenshot.png` to display your app preview below:
-
 ![App Screenshot](screenshot.png)
-
----
-
-## 📃 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## 🙌 Author
 
-Made with 💻 using Qt6 by **[Your Name](https://github.com/your-username)**
+Made with 💻 using Qt6 by hitesh Suthar 
