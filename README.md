@@ -77,7 +77,7 @@ qt6-todo-app/
 
 > Add a screenshot named `screenshot.png` to display your app preview below:
 
-![App Screenshot](screenshot.png)
+![App Screenshot](screenshot .png)
 
 ---
 
